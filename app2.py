@@ -1,22 +1,3 @@
-"""
-SIH26192 — Flash Flood Prediction System for Hilly Regions using Multi-Source Data
-Team: NoSemicolons | Theme: Disaster Management | Category: Software
-
-ENHANCED VERSION: Added Construction Safety & Dam Monitoring Features
-All existing functionality remains UNCHANGED.
-
-SINGLE-FILE STREAMLIT APPLICATION.
-No dummy / simulated / fabricated data anywhere. Every value shown is either:
-  (a) fetched live from a real, free, keyless API (Open-Meteo, OpenStreetMap Overpass), or
-  (b) computed from a genuine historical flood-events CSV supplied by the user, or
-  (c) explicitly labelled "unavailable" when a real source cannot be reached.
-
-Run:
-    streamlit run app.py
-
-See README.md for setup, real dataset sources, methodology and limitations.
-"""
-
 import os
 import math
 import json
