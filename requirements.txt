@@ -1,0 +1,12 @@
+streamlit>=1.36
+requests>=2.31
+numpy>=1.26
+pandas>=2.2
+folium>=0.16
+streamlit-folium>=0.22
+plotly>=5.22
+python-dotenv>=1.0
+scikit-learn>=1.4
+xgboost>=2.0
+shap>=0.45
+joblib>=1.4
